@@ -1,0 +1,13 @@
+train: /Users/mohammadhp/Desktop/Projects/EvaDB/LPR_EvaDB/YOLO_dataset/train/images
+val: /Users/mohammadhp/Desktop/Projects/EvaDB/LPR_EvaDB/YOLO_dataset/valid/images
+test: /Users/mohammadhp/Desktop/Projects/EvaDB/LPR_EvaDB/YOLO_dataset/test/images
+
+nc: 1
+names: ['LP']
+
+roboflow:
+  workspace: university-of-padova-gfi4l
+  project: lpr-zlj3c
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/university-of-padova-gfi4l/lpr-zlj3c/dataset/1
