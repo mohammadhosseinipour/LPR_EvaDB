@@ -34,7 +34,7 @@ NOTE:
 ![plate_nums](./results/plate_nums.png)
 
 \
-\
 
 
-👻life is short, no time to waste!
+
+👻: life is short, no time to waste:)
