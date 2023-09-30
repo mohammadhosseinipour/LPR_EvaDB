@@ -22,7 +22,7 @@ NOTE:
   2. The first input would be the location of the functions folder of the evadb in your machine.
   3. Then you have to choose either between processing images or videos(write `img` or `vid`).
   4. Then you will be asked to pick how you want to provide the input, either online or locally(write `online` or `local`).
-  5. Now provide the link to the online video(not in preview mode) or path to the local video.
+  5. Now provide the link to the online video(not in preview mode) or path to the local video(hit Enter to use the default path or [img-link](https://www.dropbox.com/scl/fi/1nls2y7neow6x42yra6ak/000005.png?rlkey=gwabhlhr3m6tgl1svgwcxt6xv&dl=1),[vid-link](https://www.dropbox.com/scl/fi/41zosrmwg1asbjfazsts8/test2.mp4?rlkey=r3dlhhmxs63b4x7drv02x4fj3&dl=1)).
   6. Again it jumps on step 4 till you load all your inputs.
   7. After you add all your links and paths, you can proceed to Plate Detection by writing `done`.
   8. You can now specify the number of frames you want to be processed(for whole data only hit Enter!).
