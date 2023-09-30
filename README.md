@@ -31,9 +31,7 @@ NOTE:
   11. AT the end you will see a list of detected plates from the input.
 ### Result Examples:
 ![plates](./results/plates.png)
-![plate_nums](./results/plate_nums.png)
-
-\
+![plate_nums](./results/plate_nums.png)  
 
 
 
