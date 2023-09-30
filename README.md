@@ -29,9 +29,12 @@ NOTE:
   9. if you are running `LPD_EvaDB.py`, you will see the detected plates and the program ends!
   10. If you are running `LPR_EvaDB.py`, you will see up to Three detected plates, by closing the showed figure, the program will enter the character recognition phase.
   11. AT the end you will see a list of detected plates from the input.
+### Result Examples:
+![plates](./results/plates.png)
+![plate_nums](./results/plate_nums.png)
 
-
-
+\
+\
 
 
 👻life is short, no time to waste!
