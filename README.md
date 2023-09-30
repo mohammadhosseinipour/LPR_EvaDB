@@ -8,7 +8,7 @@
   4. Make sure the links to your online videos or images are correct(e.g. not links to videos in preview mode).
   5. Be aware that the recognition of characters in this program is specifically trained for the Persian alphabet.
   6. While running the program, when you see three examples figure of the input frames, close it to enter the recognition phase.
-  7. At the end you will see a list of recognized plates.
+     
 
 NOTE: 
   1. The file `LPR_EvaDB.py` will do License Plate Recognition.
@@ -28,7 +28,7 @@ NOTE:
   8. You can now specify the number of frames you want to be processed(for whole data only hit Enter!).
   9. if you are running `LPD_EvaDB.py`, you will see the detected plates and the program ends!
   10. If you are running `LPR_EvaDB.py`, you will see up to Three detected plates, by closing the showed figure, the program will enter the character recognition phase.
-  11. AT the end you will see a list of detected plates from the input.
+  11. At the end you will see a list of recognized plates.
 ### Result Examples:
 ![plates](./results/plates.png)
 ![plate_nums](./results/plate_nums.png)  
