@@ -15,10 +15,10 @@ NOTE:
   2. The file `LPD_EvaDB.py` will do License Plate Detection only.
   3. The file `YOLOv8_train.ipynb` is used to train YOLOv8.
   4. The Dataset used for training Yolov8 is [HERE](https://universe.roboflow.com/university-of-padova-gfi4l/lpr-zlj3c).
-  5. The `LPR_EvaDB.py` was created to process videos from the traffic cameras, so it highly depends on the angle of the video capturing.
+  5. The `LPR_EvaDB.py` was created to process videos from the traffic cameras, so it highly depends on the angle of the video capture.
 
 ### Setup:
-  Ensure that the local Python version is >= 3.11.5. Install the required libraries(It is recommended to use a virtual environment!):
+  Ensure that the local Python version is >= 3.11.5. To install the required libraries, run the following command on your terminal in the repository's root path(It is recommended to use a virtual environment!):
   
   ```bat
   pip install -r requirements.txt
