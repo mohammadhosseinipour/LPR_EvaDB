@@ -17,6 +17,13 @@ NOTE:
   4. The Dataset used for training Yolov8 is [HERE](https://universe.roboflow.com/university-of-padova-gfi4l/lpr-zlj3c).
   5. The `LPR_EvaDB.py` was created to process videos from the traffic cameras, so it highly depends on the angel of the video capturing.
 
+### Setup:
+  Ensure that the local Python version is >= 3.11.5. Install the required libraries:
+  
+  ```bat
+  pip install -r requirements.txt
+  ```
+
 ### How to run?:
   1. When you run the program, you will see some of the instructions listed above.
   2. The first input would be the location of the functions folder of the evadb in your machine.
