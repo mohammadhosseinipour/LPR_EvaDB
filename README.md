@@ -18,7 +18,7 @@ NOTE:
   5. The `LPR_EvaDB.py` was created to process videos from the traffic cameras, so it highly depends on the angel of the video capturing.
 
 ### Setup:
-  Ensure that the local Python version is >= 3.11.5. Install the required libraries:
+  Ensure that the local Python version is >= 3.11.5. Install the required libraries(It's recommended to use a virtual environment!):
   
   ```bat
   pip install -r requirements.txt
