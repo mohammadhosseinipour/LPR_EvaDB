@@ -15,7 +15,14 @@ NOTE:
   2. The file `LPD_EvaDB.py` will do License Plate Detection only.
   3. The file `YOLOv8_train.ipynb` is used to train YOLOv8.
   4. The Dataset used for training Yolov8 is [HERE](https://universe.roboflow.com/university-of-padova-gfi4l/lpr-zlj3c).
-  5. The `LPR_EvaDB.py` was created to process videos from the traffic cameras, so it highly depends on the angel of the video capturing.
+  5. The `LPR_EvaDB.py` was created to process videos from the traffic cameras, so it highly depends on the angle of the video capture.
+
+### Setup:
+  Ensure that the local Python version is >= 3.11.5. To install the required libraries, run the following command on your terminal in the repository's root path(It is recommended to use a virtual environment!):
+  
+  ```bat
+  pip install -r requirements.txt
+  ```
 
 ### How to run?:
   1. When you run the program, you will see some of the instructions listed above.
@@ -26,8 +33,8 @@ NOTE:
   6. Again it jumps on step 4 till you load all your inputs.
   7. After you add all your links and paths, you can proceed to Plate Detection by writing `done`.
   8. You can now specify the number of frames you want to be processed(for whole data only hit Enter!).
-  9. if you are running `LPD_EvaDB.py`, you will see the detected plates and the program ends!
-  10. If you are running `LPR_EvaDB.py`, you will see up to Three detected plates, by closing the showed figure, the program will enter the character recognition phase.
+  9. if you are running `LPD_EvaDB.py`, you will see the detected plates, and the program ends!
+  10. If you are running `LPR_EvaDB.py`, you will see up to Three detected plates, by closing the shown figure, the program will enter the character recognition phase.
   11. At the end you will see a list of recognized plates.
 ### Result Examples:
 ![plates](./results/plates.png)
